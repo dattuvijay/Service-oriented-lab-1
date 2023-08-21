@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mobi>
+<Mobile_store>
+    <name>Iphone_14_pro max</name>
+    <price>80000</price>
+    <description>
+   45Mp camera 8GB Ram 128GB storage.
+   </description>
+    
+</Mobile_store>
+<Mobile_store>
+    <name>Samsung galaxy S23 Ultra</name>
+    <price>75685Rs</price>
+    <description>
+    100MP Camera 16GB Ram 256GB storage
+    </description>
+    
+</Mobile_store>
+<Mobile_store>
+    <name>Vivo V23Max</name>
+    <price>25999Rs</price>
+    <description>
+    65MP camera 16GB Ram 128GB Storage
+    </description>
+    
+</Mobile_store>
+<Mobile>
+    <name>IQOO Neo 7 Pro</name>
+    <price>33000Rs</price>
+    <description>
+    45MP Camera 16GB Ram 128GB Storage
+    </description>
+    
+</Mobile>
